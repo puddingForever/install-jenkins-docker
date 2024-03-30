@@ -180,7 +180,7 @@ If we failed to search "Mainboard" , the build will be failed at test stage and 
 ![image](https://github.com/puddingForever/install-jenkins-docker/assets/126591306/12d5befe-b673-4e5b-97e3-c34632111720)
 
 # Defining environment variables 
-When there is repeated words, we can use global vaeriable inside of environment block 
+When there is repeated words, we can use global variable inside of environment block 
 when it's inside of ''' type $variableName . If it's outside of ''', use "$variableName"
 ```
 pipeline {
