@@ -1,13 +1,12 @@
 **List**
+- [Docker Installation](#Docker-Installation)
 
 
-# Install Jenkins using Docker Compose
+# Docker-Installation 
 
 This repository contains a Docker Compose configuration for a quick installation of Jenkins. This setup is not intended for production systems.
 
 Credits: This approach is mostly based on the [offical instructions](https://www.jenkins.io/doc/book/installing/docker/) but takes advantage of Docker Dompose (by using a `docker-compose.yml` file) to reduce the number of steps needed to get Jenkins up and running.
-
-# Docker Installation
 
 ## Step 1
 
